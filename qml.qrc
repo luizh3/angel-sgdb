@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>components/AngelTheme/AngelMetric.qml</file>
+        <file>components/connection/ConnectionDatabase.qml</file>
+        <file>resources/close.png</file>
+        <file>components/AngelTheme/AngelColor.qml</file>
+        <file>components/AngelTheme/AngelFont.qml</file>
+        <file>components/AngelTheme/qmldir</file>
+        <file>components/AngelTheme/AngelAnimation.qml</file>
+        <file>resources/error.png</file>
+        <file>resources/warning.png</file>
+        <file>PopupManager.qml</file>
+        <file>ToastManager.qml</file>
+        <file>components/Angel/qmldir</file>
+        <file>components/Angel/AngelRectangle.qml</file>
+        <file>components/Angel/AngelTextField.qml</file>
+        <file>components/Angel/AngelTextFieldForm.ui.qml</file>
+        <file>components/Angel/AngelPopup.qml</file>
+        <file>components/Angel/AngelHeader.qml</file>
+        <file>components/Angel/AngelButton.qml</file>
+        <file>components/Angel/AngelButtonForm.ui.qml</file>
+        <file>components/Angel/AngelLoading.qml</file>
+        <file>components/Angel/AngelLoadingForm.ui.qml</file>
+        <file>components/Angel/AngelToast.qml</file>
+        <file>components/Angel/AngelToastForm.ui.qml</file>
+        <file>view/model/tabledatamodel.h</file>
+        <file>view/model/tabledatamodel.cpp</file>
+        <file>components/Angel/AngelMenuItem.qml</file>
+        <file>components/Angel/AngelMenu.qml</file>
+        <file>components/Screen/MenuBarCustom.qml</file>
+        <file>components/Screen/TableDataViewForm.ui.qml</file>
+        <file>components/Screen/TableDataView.qml</file>
+        <file>components/Screen/DatabaseDataViewForm.ui.qml</file>
+        <file>components/Screen/DatabaseDataView.qml</file>
+        <file>components/Screen/QueryPanelManagerForm.ui.qml</file>
+        <file>components/Screen/QueryPanelManager.qml</file>
+        <file>components/Screen/QueryPanelForm.ui.qml</file>
+        <file>components/Screen/QueryPanel.qml</file>
+        <file>resources/table.png</file>
+        <file>resources/success.png</file>
+        <file>components/Screen/KeyboardShortcutsModalForm.ui.qml</file>
+        <file>components/Screen/KeyboardShortcutsModal.qml</file>
+        <file>resources/fail.png</file>
+    </qresource>
+</RCC>

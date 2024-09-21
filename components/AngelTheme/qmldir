@@ -1,0 +1,5 @@
+module AngelTheme
+singleton AngelColor 1.0 AngelColor.qml
+singleton AngelFont 1.0 AngelFont.qml
+singleton AngelMetric 1.0 AngelMetric.qml
+singleton AngelAnimation 1.0 AngelAnimation.qml

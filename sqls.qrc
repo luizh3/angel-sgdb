@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sqls/find_all_tables.sql</file>
+    </qresource>
+</RCC>

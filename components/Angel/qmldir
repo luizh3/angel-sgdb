@@ -1,0 +1,9 @@
+module Angel
+AngelButton 1.0 AngelButton.qml
+AngelPopup 1.0 AngelPopup.qml
+AngelRectangle 1.0 AngelRectangle.qml
+AngelTextField 1.0 AngelTextField.qml
+AngelLoading 1.0 AngelLoading.qml
+AngelToast 1.0 AngelToast.qml
+AngelMenuItem 1.0 AngelMenuItem.qml
+AngelMenu 1.0 AngelMenu.qml
